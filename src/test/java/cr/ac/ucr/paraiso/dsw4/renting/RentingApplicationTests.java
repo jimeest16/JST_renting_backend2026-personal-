@@ -1,0 +1,16 @@
+package cr.ac.ucr.paraiso.dsw4.renting;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RentingApplicationTests {
+
+
+	@Test
+	String hello() {
+		return "Hello world";
+		
+	}
+
+}
